@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **frontend development**
 
-- 🌱 I’m curious about **frontend technologies, algorithms, functional programming, coding tools, git, clean code, design patterns, ux design, and more.**
+- 🌱 I’m curious about **frontend technologies, algorithms, functional programming, software architecture, coding tools, git, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
 
 - 📫 How to reach me **lisaru.robert@gmail.com**
 
