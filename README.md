@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" /></p>
-
-<p><img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></p>
