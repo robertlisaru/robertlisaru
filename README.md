@@ -1,5 +1,3 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-
 <h1 align="center">Hi 👋, I'm Robert Lisaru</h1>
 <h3 align="center">A former Computer Science student in Sibiu, Romania.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
@@ -16,3 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" /></p>
+
+<p><img align="center" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/></p>
