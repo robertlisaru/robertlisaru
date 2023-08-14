@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **frontend development** since 2021.
 
-- 🌱 We can talk about **frontend technologies, algorithms, functional programming, software architecture, coding tools, git, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
+- 🌱 We can talk about **frontend technologies, algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
 
 - 📫 How to reach me **lisaru.robert@gmail.com**
 
