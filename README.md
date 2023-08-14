@@ -28,6 +28,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.fs.teachablecdn.com/L2rtxPaRxa4am1VtNegg" alt="maven" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://pop.system76.com/" target="_blank" rel="noreferrer"> <img src="https://pop.system76.com/icon-512.png" alt="popos" width="40" height="40"/> </a> 
@@ -37,7 +38,9 @@
 <a href="https://www.shortcut.com/" target="_blank" rel="noreferrer"> <img src="https://theme.zdassets.com/theme_assets/574945/bb45339f1cb2fb6865949df0c8009ababaad3470.png" alt="shortcut" width="40" height="40"/> </a> 
 <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/35643.png?time=1670568508" alt="sourcetree" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="webpack" width="40" height="40"/> </a></p>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="webpack" width="40" height="40"/> </a>
+<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
+</p>
 
 <br>
 <hr>
