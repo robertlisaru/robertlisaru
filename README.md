@@ -3,12 +3,12 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966#gh-light-mode-only">
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/128341413947128d0b5116d81999fb11bddb4ca69e02a813d559f8da1ffaf219/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e6769662367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only">
 
-- 🔭 I’m working on **frontend development** since 2021.
-- 🌱 We can talk about **frontend technologies, algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
+- 🔭 I’m working in **software engineering** since 2021.
+- 🌱 We can talk about (I'm not an expert, but always curious): **algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
 - [💻 The workplace I enjoy](https://gist.github.com/robertlisaru/0479cd5ca27fc9d7265414ace7f1964a)
-- 📫 How to reach me **lisaru.robert@gmail.com**
+- 📫 How to reach me: **lisaru.robert@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/> </a> 
@@ -42,6 +42,15 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="webpack" width="40" height="40"/> </a>
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
 </p>
+
+<h4 align="left">I am inspired by:</h4>
+
+- <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile </a>
+- <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki </a>
+- <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman </a>
+- <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> ThePrimeTime </a>
+- <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
+- and others.
 
 <br>
 <hr>
