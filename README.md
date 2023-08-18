@@ -45,6 +45,7 @@
 
 <h4 align="left">I am inspired by:</h4>
 
+- <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic </a>
 - <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile </a>
 - <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki </a>
 - <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman </a>
