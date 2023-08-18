@@ -5,7 +5,7 @@
 
 - 🔭 I’m working on **frontend development** since 2021.
 - 🌱 We can talk about **frontend technologies, algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
-- [🪭 The workplace I enjoy](https://gist.github.com/robertlisaru/0479cd5ca27fc9d7265414ace7f1964a)
+- [💻 The workplace I enjoy](https://gist.github.com/robertlisaru/0479cd5ca27fc9d7265414ace7f1964a)
 - 📫 How to reach me **lisaru.robert@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
