@@ -61,7 +61,7 @@
 
 <hr>
 
-<h4 align="left">Useful links and coding tools:</h4>
+<h4 align="left">Useful links and coding tools I found online:</h4>
 
 - <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlin vs java snippets </a>
 - <a href="https://webkay.robinlinus.com/" target="_blank" rel="noreferrer"> what every browser knows about you </a>
