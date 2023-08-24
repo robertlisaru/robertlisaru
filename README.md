@@ -61,12 +61,12 @@
 
 <hr>
 
-<h4 align="left">My list of useful links to aid coding:</h4>
+<h4 align="left">Useful links and coding tools:</h4>
 
 - <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlinvsjava.com </a>
 
 
-<h4 align="left">Useless links, but maybe you're bored:</h4>
+<h4 align="left">Not so useful, but maybe you're bored:</h4>
 
 - <a href="https://dayssincelastjavascriptframework.com/" target="_blank" rel="noreferrer"> dayssincelastjavascriptframework.com </a>
 - <a href="http://isitthursday.org/" target="_blank" rel="noreferrer"> isitthursday.org </a>
