@@ -71,7 +71,7 @@
 - [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
 - [regex](https://regex101.com/)
 
-<h4 align="left">Not so useful, but maybe you're bored:</h4>
+<h4 align="left">Fun, if you're bored:</h4>
 
 - <a href="https://dayssincelastjavascriptframework.com/" target="_blank" rel="noreferrer"> dayssincelastjavascriptframework.com </a>
 - <a href="http://isitthursday.org/" target="_blank" rel="noreferrer"> isitthursday.org </a>
