@@ -63,12 +63,18 @@
 
 <h4 align="left">Useful links and coding tools:</h4>
 
-- <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlinvsjava.com </a>
-
+- <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlin vs java snippets </a>
+- <a href="https://webkay.robinlinus.com/" target="_blank" rel="noreferrer"> what every browser knows about you </a>
+- <a href="https://browserleaks.com/" target="_blank" rel="noreferrer"> browser leaks </a>
+- <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> draw.io </a>
+- [wolfram alpha](https://www.wolframalpha.com/)
+- [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+- [regex](https://regex101.com/)
 
 <h4 align="left">Not so useful, but maybe you're bored:</h4>
 
 - <a href="https://dayssincelastjavascriptframework.com/" target="_blank" rel="noreferrer"> dayssincelastjavascriptframework.com </a>
 - <a href="http://isitthursday.org/" target="_blank" rel="noreferrer"> isitthursday.org </a>
-
-
+- [10 fast fingers](https://10fastfingers.com/typing-test/english)
+- [itl.cat](https://www.itl.cat/)
+- [midjourney](https://www.midjourney.com/showcase/recent/)
