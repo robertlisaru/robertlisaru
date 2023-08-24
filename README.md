@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert Lisaru</h1>
+<h2 align="center">Hi 👋, I'm Robert Lisaru</h2>
 <h3 align="center">A former Computer Science student in Sibiu, Romania.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966#gh-light-mode-only">
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/128341413947128d0b5116d81999fb11bddb4ca69e02a813d559f8da1ffaf219/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e6769662367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only">
@@ -53,9 +53,22 @@
 - <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
 - and others.
 
-<br>
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" /></p>
+
+<hr>
+
+<h4 align="left">My list of useful links to aid coding:</h4>
+
+- <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlinvsjava.com </a>
+
+
+<h4 align="left">Useless links, but maybe you're bored:</h4>
+
+- <a href="https://dayssincelastjavascriptframework.com/" target="_blank" rel="noreferrer"> dayssincelastjavascriptframework.com </a>
+- <a href="http://isitthursday.org/" target="_blank" rel="noreferrer"> isitthursday.org </a>
+
+
