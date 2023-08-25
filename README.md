@@ -43,17 +43,6 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">I am inspired by:</h4>
-
-- <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic </a>
-- <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile </a>
-- <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki </a>
-- <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman </a>
-- <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> ThePrimeTime </a>
-- <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
-- and others.
-
-<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
 
@@ -61,20 +50,30 @@
 
 <hr>
 
-<h4 align="left">Useful links and coding tools I found online:</h4>
+<h4 align="left">I am inspired by:</h4>
 
-- <a href="https://www.kotlinvsjava.com/" target="_blank" rel="noreferrer"> kotlin vs java snippets </a>
-- <a href="https://webkay.robinlinus.com/" target="_blank" rel="noreferrer"> what every browser knows about you </a>
-- <a href="https://browserleaks.com/" target="_blank" rel="noreferrer"> browser leaks </a>
-- <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer"> draw.io </a>
-- [wolfram alpha](https://www.wolframalpha.com/)
-- [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
-- [regex](https://regex101.com/)
+ <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic </a>
+| <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile </a>
+| <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki </a>
+| <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman </a>
+| <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> ThePrimeTime </a>
+| <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
+| and others.
 
-<h4 align="left">Fun, if you're bored:</h4>
+<h4 align="left">Useful links and coding tools I found online (I update this list frequently):</h4>
 
-- <a href="https://dayssincelastjavascriptframework.com/" target="_blank" rel="noreferrer"> dayssincelastjavascriptframework.com </a>
-- <a href="http://isitthursday.org/" target="_blank" rel="noreferrer"> isitthursday.org </a>
-- [10 fast fingers](https://10fastfingers.com/typing-test/english)
-- [itl.cat](https://www.itl.cat/)
-- [midjourney](https://www.midjourney.com/showcase/recent/)
+[browser leaks](https://browserleaks.com/)
+| [draw.io](https://app.diagrams.net/)
+| [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
+| [kotlin vs java snippets](https://www.kotlinvsjava.com/)
+| [regex](https://regex101.com/)
+| [what every browser knows about you](https://webkay.robinlinus.com/)
+| [wolfram alpha](https://www.wolframalpha.com/)
+
+<h4 align="left">Fun stuff, if you're bored:</h4>
+
+[10 fast fingers](https://10fastfingers.com/typing-test/english)
+| [dayssincelastjavascriptframework.com](https://dayssincelastjavascriptframework.com/)
+| [isitthursday.org](http://isitthursday.org/)
+| [itl.cat](https://www.itl.cat/)
+| [midjourney](https://www.midjourney.com/showcase/recent/)
