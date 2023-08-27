@@ -5,7 +5,6 @@
 
 - 🔭 I’m working in **software engineering** since 2021.
 - 🌱 We can talk about: **algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
-- [👨‍💻 The workplace I enjoy](https://gist.github.com/robertlisaru/0479cd5ca27fc9d7265414ace7f1964a)
 - 📫 How to reach me: **lisaru.robert@gmail.com**
 - 🦾 You can also click the **follow** button here, on GitHub. I will follow back, and we can be code buddies! 🦆🦆
 
