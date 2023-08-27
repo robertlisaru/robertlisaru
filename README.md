@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/128341413947128d0b5116d81999fb11bddb4ca69e02a813d559f8da1ffaf219/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e6769662367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only">
 
 - 🔭 I’m working in **software engineering** since 2021.
-- 🌱 We can talk about: **algorithms, functional programming, software architecture, coding tools, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
+- 🌱 We can talk about: **software architecture, coding tools, algorithms, data structures, functional programming, git, codegolf, clean code, design patterns, ux design, communication skills, efficient workflows, and more.**
 - 📫 How to reach me: **lisaru.robert@gmail.com**
 - 🦾 You can also click the **follow** button here, on GitHub. I will follow back, and we can be code buddies! 🦆🦆
 
