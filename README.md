@@ -63,7 +63,7 @@
 | <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
 | and others.
 
-<h4 align="left">Useful links and coding tools I found online (I update this list frequently):</h4>
+<h4 align="left">Useful links and coding tools I found online:</h4>
 
 [Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 | [draw.io](https://app.diagrams.net/)
