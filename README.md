@@ -74,6 +74,7 @@
 | [gitignore.io](https://www.gitignore.io)
 | [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
 | [kotlin vs java snippets](https://www.kotlinvsjava.com/)
+| [radar chart creator](https://geographyfieldwork.com/RadarChartCreator.html)
 | [regex](https://regex101.com/)
 | [webkay.robinlinus.com](https://webkay.robinlinus.com/)
 | [wolfram alpha](https://www.wolframalpha.com/)
