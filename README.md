@@ -50,6 +50,14 @@
 
 <hr>
 
+<h4 align="left">My fundamental masteries as a software engineer:</h4>
+
+<img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263859973-13bef606-d1c7-41a6-8914-35d9cce834e8.png#gh-light-mode-only">
+
+<img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263860141-b3467ee1-b4b1-4c23-9801-2e60cdc68300.png#gh-dark-mode-only">
+
+<hr>
+
 <h4 align="left">I am inspired by:</h4>
 
  <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic </a>
