@@ -62,7 +62,7 @@
 - **🫂 Communication and teamwork:** <i>We are people working with people to build tools for other people. Efficient communication between all the parts involved is mandatory for achieving meaningful results. But it's not always an easy task to find the perfect plan for meetings, presentations, standups, and announcements. In a software engineering team there's often at least one person who is not engineering software, but actually engineering people. </i>
 - **💡 Information synthesis and self-learning:** <i>Knowing how to know. The skill of gaining skills. You already know what this is about and why is important. But if not, I'm sure you can find out. </i>
 - **💛 Passion and enthusiasm:** <i>Work is hard sometimes, and we get tired. To be able to do your work with joy is not easy, but is a skill that can be learned. And if you learn to be passionate about your work, it will help you stay sane, and will make you a more enjoyable person to work with. </i>
-- **🦎 Tehnical flexibility and adaptibility:** <i></i>
+- **🦎 Tehnical flexibility and adaptibility:** <i>Software engineers need to be flexible enough to adapt to the ever changing world of technology, in order to keep being software engineers. You can sink with your ship, or keep swimming and find a new ship.</i>
 
 <hr>
 
