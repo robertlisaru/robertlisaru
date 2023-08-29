@@ -95,6 +95,7 @@ What is popular in the tech world changes constantly, but these are some [fundam
 [10 fast fingers](https://10fastfingers.com/typing-test/english)
 | [dayssincelastjavascriptframework.com](https://dayssincelastjavascriptframework.com/)
 | [devhumor.com](https://devhumor.com/)
+| [grugbrain.dev](http://grugbrain.dev/)
 | [isitthursday.org](http://isitthursday.org/)
 | [itl.cat](https://www.itl.cat/)
 | [midjourney](https://www.midjourney.com/showcase/recent/)
