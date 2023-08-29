@@ -50,11 +50,19 @@
 
 <hr>
 
-<h4 align="left">My fundamental masteries as a software engineer:</h4>
+<h3 align="left">🐒 My fundamental masteries as a software engineer:</h3>
+<i>(which I am constantly looking to improve and sharpen)</i>
 
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263859973-13bef606-d1c7-41a6-8914-35d9cce834e8.png#gh-light-mode-only">
 
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263860141-b3467ee1-b4b1-4c23-9801-2e60cdc68300.png#gh-dark-mode-only">
+
+- **📖 Base computer science knowledge:** <i>Having a good understanding of the fundamentals will make you a more valuable software engineer in the long term. You learn new technologies, and adapt more efficiently having a solid base of core knowledge to build upon (algorithms, data structures, network protocols, the operating system, low level mechanisms, binary operations, etc).</i>
+- **🎯 Common sense and reasoning:** <i>It's important to know patterns, clean code, optimizations, and abstractions. But it's more important to know when to apply them. Applying them wrong, or at the wrong time, can sometimes be worse than not applying them at all. Fast code is good, but should we spend half the sprint to make a button 4ms faster, while making the code less maintainable in the process? It's always a tradeoff between: performance, clean code (code that looks good in books), maintaiable code (code that's easy to modify when requirements change), delivery time, deadlines, tech debt, and team harmony. </i>
+- **Communication and teamwork:**
+- **Information synthesis and self-learning:**
+- **Passion and enthusiasm:**
+- **Tehnical flexibility and adaptibility:**
 
 <hr>
 
