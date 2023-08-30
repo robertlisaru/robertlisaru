@@ -51,13 +51,12 @@
 <hr>
 
 <h3 align="left">🐒 My fundamental masteries as a software engineer:</h3>
-<i>(which I am constantly looking to improve and sharpen)</i>
 
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263859973-13bef606-d1c7-41a6-8914-35d9cce834e8.png#gh-light-mode-only">
 
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263860141-b3467ee1-b4b1-4c23-9801-2e60cdc68300.png#gh-dark-mode-only">
 
-What is popular in the tech world changes constantly, but these are some [fundamental masteries](https://gist.github.com/robertlisaru/66b648e8682c71954645949e01faf198) that I think will always make a software engineer valuable.
+What is popular in the tech world changes constantly, but these are the [fundamental masteries](https://gist.github.com/robertlisaru/66b648e8682c71954645949e01faf198) that I think will always make a software engineer valuable.
 
 <hr>
 
