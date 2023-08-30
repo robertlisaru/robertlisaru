@@ -91,9 +91,9 @@ What is popular in the tech world changes constantly, but these are the fundamen
 <h4 align="left">Fun stuff, if you're bored:</h4>
 
 [10 fast fingers](https://10fastfingers.com/typing-test/english)
-| [dayssincelastjavascriptframework.com](https://dayssincelastjavascriptframework.com/)
-| [devhumor.com](https://devhumor.com/)
+| [dayssincelastjavascriptframework](https://dayssincelastjavascriptframework.com/)
+| [devhumor](https://devhumor.com/)
 | [grugbrain.dev](http://grugbrain.dev/)
-| [isitthursday.org](http://isitthursday.org/)
+| [isitthursday](http://isitthursday.org/)
 | [itl.cat](https://www.itl.cat/)
 | [midjourney](https://www.midjourney.com/showcase/recent/)
