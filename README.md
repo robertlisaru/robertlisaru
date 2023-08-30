@@ -43,7 +43,6 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
 </p>
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" /></p>
@@ -52,11 +51,11 @@
 
 <h3 align="left">🐒 My fundamental masteries as a software engineer:</h3>
 
+What is popular in the tech world changes constantly, but these are the fundamental masteries that I think will always make a software engineer valuable. [Why these?](https://gist.github.com/robertlisaru/66b648e8682c71954645949e01faf198)
+
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263859973-13bef606-d1c7-41a6-8914-35d9cce834e8.png#gh-light-mode-only">
 
 <img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263860141-b3467ee1-b4b1-4c23-9801-2e60cdc68300.png#gh-dark-mode-only">
-
-What is popular in the tech world changes constantly, but these are the [fundamental masteries](https://gist.github.com/robertlisaru/66b648e8682c71954645949e01faf198) that I think will always make a software engineer valuable.
 
 <hr>
 
