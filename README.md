@@ -43,9 +43,11 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
 </p>
 
+<h4 align="left">GitHub stats (private repos may not count):</h4>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact&theme=transparent&include_all_commits=true&langs_count=8" alt="most-used-languages-stats" />
+<img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&theme=transparent" alt="streak-stats" />
 </p>
 
 <hr>
