@@ -43,9 +43,10 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=robertlisaru&show_icons=true&locale=en&layout=compact" alt="robertlisaru" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertlisaru&" alt="robertlisaru" />
+</p>
 
 <hr>
 
