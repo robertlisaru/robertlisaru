@@ -80,6 +80,7 @@ What is popular in the tech world changes constantly, but these are the fundamen
 | [draw.io](https://app.diagrams.net/)
 | [elm patterns](https://sporto.github.io/elm-patterns/index.html)
 | [flexbox froggy](https://flexboxfroggy.com/)
+| [front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist)
 | [gitignore.io](https://www.gitignore.io)
 | [google books ngram viewer](https://books.google.com/ngrams/graph?content=programmer%2Cmathematician&year_start=1800&year_end=2019&corpus=en-2019&smoothing=3)
 | [kotlin vs java snippets](https://www.kotlinvsjava.com/)
