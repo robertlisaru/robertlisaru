@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Robert Lisaru</h2>
 <h3 align="center">A former Computer Science student in Sibiu, Romania.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966#gh-light-mode-only">
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/128341413947128d0b5116d81999fb11bddb4ca69e02a813d559f8da1ffaf219/68747470733a2f2f646c2e6f70656e73656175736572646174612e636f6d2f63616368652f6f726967696e496d6167652f66696c65732f35323761393738336332386337303936323737336137336462373937656134642e6769662367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only">
+<img align="right" alt="Coding" width="300" src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp#gh-dark-mode-only">
 
 - 🔭 I’m working in **software engineering** since 2021.
 - 🌱 We can talk about: **software architecture, coding tools, algorithms, data structures, functional programming, git, codegolf, clean code, design patterns, ux design, web development, frameworks, and more.**
