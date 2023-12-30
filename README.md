@@ -56,9 +56,9 @@
 
 What is popular in the tech world changes constantly, but these are the fundamental masteries that I think will always make a software engineer valuable. [Why these? Why are they important?](https://gist.github.com/robertlisaru/66b648e8682c71954645949e01faf198)
 
-<img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263859973-13bef606-d1c7-41a6-8914-35d9cce834e8.png#gh-light-mode-only">
+<img alt="masteries graph" src="./masteries-light.png#gh-light-mode-only">
 
-<img alt="masteries graph" src="https://user-images.githubusercontent.com/40792547/263860141-b3467ee1-b4b1-4c23-9801-2e60cdc68300.png#gh-dark-mode-only">
+<img alt="masteries graph" src="./masteries-dark.png#gh-dark-mode-only">
 
 <hr>
 
