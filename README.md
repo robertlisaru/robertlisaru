@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Robert Lisaru</h2>
 <h3 align="center">A former Computer Science student in Sibiu, Romania.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966#gh-light-mode-only">
+<img align="right" alt="Coding" width="400" src="./coding-light.webp#gh-light-mode-only">
 <img align="right" alt="Coding" width="300" src="./coding-dark.webp#gh-dark-mode-only">
 
 - 🔭 I’m working in **software engineering** since 2021.
