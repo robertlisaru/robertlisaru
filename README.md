@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="./coding-light.webp#gh-light-mode-only">
 <img align="right" alt="Coding" width="300" src="./coding-dark.webp#gh-dark-mode-only">
 
-- 🔭 I’m working in **software engineering** since 2021.
+- 🔭 After studying **programming** and **computer science** in highschool and at university I started working as a **software engineer**
 - 🌱 We can talk about: **software architecture, coding tools, algorithms, data structures, functional programming, git, codegolf, clean code, design patterns, ux design, web development, frameworks, and more.**
 - 📫 How to reach me: **lisaru.robert@gmail.com**
 - 🦆🦆 You can also click the **follow** button here, on GitHub. I will follow back, and we can be code buddies!
