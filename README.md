@@ -104,8 +104,3 @@ What is popular in the tech world changes constantly, but these are the fundamen
 | [itl.cat](https://www.itl.cat/)
 | [midjourney](https://www.midjourney.com/showcase/recent/)
 
-<hr>
-
-<img alt="You are using dark mode. Excellent choice!" src="https://camo.githubusercontent.com/68cdb4b7ba96d5ef87a01b4ced0e12d9a4f045d5c781a1098b256fe6f4dc9c47/68747470733a2f2f6769746875622d70726f64756374696f6e2d757365722d61737365742d3632313064662e73332e616d617a6f6e6177732e636f6d2f34303739323534372f3236343435373539322d63646438623333662d646139652d343533372d613561382d3531663731623331656161312e706e672367682d6461726b2d6d6f64652d6f6e6c79#gh-dark-mode-only" />
-
-<img alt="You are using light mode. Excellent choice!" src="https://user-images.githubusercontent.com/40792547/264457683-1c70a5b0-044c-4e05-9374-55119aa1e355.png#gh-light-mode-only" />
