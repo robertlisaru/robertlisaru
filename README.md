@@ -41,9 +41,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="webpack" width="40" height="40"/> </a>
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/WampServer.png" alt="wamp" width="40" height="40"/> </a>
-</p>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Wordpress_Blue_logo.png" alt="wordpress" width="40" height="40"/> </a>
 </p>
+
 
 <h4 align="left">GitHub stats (private repos may not count):</h4>
 
