@@ -111,7 +111,7 @@ What is popular in the tech world changes constantly, but these are the fundamen
 <h4 align="left">A young boy</h4>
 
 
-<img alt="young-guy" width="600" src="https://github.com/robertlisaru/robertlisaru/assets/40792547/58a237b7-8f76-4b40-ad99-18b1864bcf75">
+<img alt="young-guy" width="720" src="https://github.com/robertlisaru/robertlisaru/assets/40792547/58a237b7-8f76-4b40-ad99-18b1864bcf75">
 <br>
 <i>Me, when I was 12. Discovering my passion for computers, and getting used to staring at progress bars.</i>
 
