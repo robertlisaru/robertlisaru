@@ -34,6 +34,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/742/330/png-transparent-regular-expression-computer-icons-regular-language-regex-angle-text-logo-thumbnail.png" alt="regex" width="40" height="40"/> </a> 
 <a href="https://www.shortcut.com/" target="_blank" rel="noreferrer"> <img src="https://theme.zdassets.com/theme_assets/574945/bb45339f1cb2fb6865949df0c8009ababaad3470.png" alt="shortcut" width="40" height="40"/> </a> 
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="40" height="40"/> </a> 
 <a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/35643.png?time=1670568508" alt="sourcetree" width="40" height="40"/> </a> 
