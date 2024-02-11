@@ -87,6 +87,7 @@ What is popular in the tech world changes constantly, but these are the fundamen
 | [docker prune](https://stackoverflow.com/questions/37518096/how-can-i-reduce-the-disk-space-used-by-docker)
 | [draw.io](https://app.diagrams.net/)
 | [elm patterns](https://sporto.github.io/elm-patterns/index.html)
+| [flask.io](https://flask.io/)
 | [flexbox froggy](https://flexboxfroggy.com/)
 | [front-end-checklist](https://github.com/thedaviddias/Front-End-Checklist)
 | [gitignore.io](https://www.gitignore.io)
