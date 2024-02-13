@@ -8,6 +8,10 @@
 - 📫 How to reach me: **lisaru.robert@gmail.com**
 
 <h4 align="left">Languages and Tools:</h4>
+
+To me, tools and languages are just a means of solving a problem. If a new tool solves the problem more elegantly, I'm always prepared to change. So this will never be a definitive list.
+
+<br>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png" alt="babel" width="40" height="40"/> </a> 
