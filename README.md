@@ -11,40 +11,40 @@
 
 <br>
 <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./icons/android.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="./icons/babel.png" alt="babel" width="40" height="40"/> </a> 
-<a href="https://www.oligriffiths.com/broccolijs/" target="_blank" rel="noreferrer"> <img src="./icons/broccoli.png" alt="broccoli" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./icons/c.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./icons/cpp.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/css.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./icons/docker.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://elm-lang.org/" target="_blank" rel="noreferrer"> <img src="./icons/elm.png" alt="elm" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./icons/figma.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./icons/git.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="./icons/graphql.png" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="./icons/idea.png" alt="ijidea" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./icons/java.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/js.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./icons/linux.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Lisp_%28programming_language%29" target="_blank" rel="noreferrer"> <img src="./icons/lisp.png" alt="lisp" width="40" height="40"/> </a> 
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="./icons/maven.png" alt="maven" width="40" height="40"/> </a> 
-<a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer"> <img src="./icons/openmpi.png" alt="mpi" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./icons/mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./icons/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./icons/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./icons/php.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://pop.system76.com/" target="_blank" rel="noreferrer"> <img src="./icons/popos.png" alt="popos" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./icons/postman.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/react.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="./icons/regex.png" alt="regex" width="40" height="40"/> </a> 
-<a href="https://www.shortcut.com/" target="_blank" rel="noreferrer"> <img src="./icons/shortcut.png" alt="shortcut" width="40" height="40"/> </a> 
-<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="./icons/slack.png" alt="slack" width="40" height="40"/> </a> 
-<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="./icons/sourcetree.webp" alt="sourcetree" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./icons/vscode.webp" alt="vscode" width="40" height="40"/> </a>
-<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="./icons/wamp.png" alt="wamp" width="40" height="40"/> </a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="./icons/webpack.png" alt="webpack" width="40" height="40"/> </a>
-<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="./icons/wordpress.png" alt="wordpress" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./icons/android.svg" alt="android" width="40" height="40"/></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="./icons/babel.png" alt="babel" width="40" height="40"/></a> 
+<a href="https://www.oligriffiths.com/broccolijs/" target="_blank" rel="noreferrer"> <img src="./icons/broccoli.png" alt="broccoli" width="40" height="40"/></a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="./icons/c.svg" alt="c" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="./icons/cpp.svg" alt="cplusplus" width="40" height="40"/></a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="./icons/css.svg" alt="css3" width="40" height="40"/></a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./icons/docker.svg" alt="docker" width="40" height="40"/></a> 
+<a href="https://elm-lang.org/" target="_blank" rel="noreferrer"> <img src="./icons/elm.png" alt="elm" width="40" height="40"/></a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="./icons/figma.svg" alt="figma" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./icons/git.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="./icons/graphql.png" alt="graphql" width="40" height="40"/></a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="./icons/html.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="./icons/idea.png" alt="ijidea" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="./icons/java.svg" alt="java" width="40" height="40"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="./icons/js.svg" alt="javascript" width="40" height="40"/></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="./icons/linux.svg" alt="linux" width="40" height="40"/></a> 
+<a href="https://en.wikipedia.org/wiki/Lisp_%28programming_language%29" target="_blank" rel="noreferrer"> <img src="./icons/lisp.png" alt="lisp" width="40" height="40"/></a> 
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="./icons/maven.png" alt="maven" width="40" height="40"/></a> 
+<a href="https://www.open-mpi.org/" target="_blank" rel="noreferrer"> <img src="./icons/openmpi.png" alt="mpi" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="./icons/mysql.png" alt="mysql" width="40" height="40"/></a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./icons/nodejs.png" alt="nodejs" width="40" height="40"/></a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="./icons/photoshop.png" alt="photoshop" width="40" height="40"/></a> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="./icons/php.svg" alt="php" width="40" height="40"/></a> 
+<a href="https://pop.system76.com/" target="_blank" rel="noreferrer"> <img src="./icons/popos.png" alt="popos" width="40" height="40"/></a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="./icons/postman.svg" alt="postman" width="40" height="40"/></a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="./icons/react.svg" alt="react" width="40" height="40"/></a> 
+<a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank" rel="noreferrer"> <img src="./icons/regex.png" alt="regex" width="40" height="40"/></a> 
+<a href="https://www.shortcut.com/" target="_blank" rel="noreferrer"> <img src="./icons/shortcut.png" alt="shortcut" width="40" height="40"/></a> 
+<a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="./icons/slack.png" alt="slack" width="40" height="40"/></a> 
+<a href="https://www.sourcetreeapp.com/" target="_blank" rel="noreferrer"> <img src="./icons/sourcetree.webp" alt="sourcetree" width="40" height="40"/></a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./icons/vscode.webp" alt="vscode" width="40" height="40"/></a>
+<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="./icons/wamp.png" alt="wamp" width="40" height="40"/></a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="./icons/webpack.png" alt="webpack" width="40" height="40"/></a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="./icons/wordpress.png" alt="wordpress" width="40" height="40"/></a>
 </p>
 
 
@@ -69,17 +69,17 @@ What is popular in the tech world changes constantly, but these are the fundamen
 
 <h4 align="left">I am inspired by:</h4>
 
- <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic </a>
-| <a href="https://www.youtube.com/@codinginflow" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Coding in Flow </a>
-| <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile </a>
-| <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki </a>
-| <a href="https://www.youtube.com/@Fireship" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Fireship </a>
-| <a href="https://www.youtube.com/@KevinPowell" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Kevin Powell </a>
-| <a href="https://www.youtube.com/@lexfridman" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Lex Fridman </a>
-| <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman </a>
-| <a href="https://www.youtube.com/@sibiuwebmeetup" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Sibiu Web Meetup </a>
-| <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> ThePrimeTime </a>
-| <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified </a>
+ <a href="https://www.youtube.com/@CodeAesthetic" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> CodeAesthetic</a>
+| <a href="https://www.youtube.com/@codinginflow" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Coding in Flow</a>
+| <a href="https://www.youtube.com/@Computerphile" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Computerphile</a>
+| <a href="https://www.youtube.com/watch?v=XpDsk374LDE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Evan Czaplicki</a>
+| <a href="https://www.youtube.com/@Fireship" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Fireship</a>
+| <a href="https://www.youtube.com/@KevinPowell" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Kevin Powell</a>
+| <a href="https://www.youtube.com/@lexfridman" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Lex Fridman</a>
+| <a href="https://www.youtube.com/watch?v=DoA4Txr4GUs" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Richard Feldman</a>
+| <a href="https://www.youtube.com/@sibiuwebmeetup" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Sibiu Web Meetup</a>
+| <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> ThePrimeTime</a>
+| <a href="https://www.youtube.com/@WebDevSimplified" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/1024px-YouTube_full-color_icon_%282017%29.svg.png" width="20" height="14"/> Web Dev Simplified</a>
 | and others.
 
 <h4 align="left">Useful links and coding tools I found online:</h4>
